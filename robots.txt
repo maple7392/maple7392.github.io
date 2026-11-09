@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maple7392.github.io/sitemap.xml
